@@ -35,7 +35,7 @@
     margin: 5px;
 }
 
-.log ul .player-turn {
+.log ul .player__turn {
     color: blue;
     background-color: #e4e8ff;
 }
